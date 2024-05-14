@@ -1,0 +1,228 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.menuh{
+	width: 100%;
+	height: 55px;
+	display: flex;
+	justify-content: right;
+	align-items: center;
+	background-color: black;
+	font-family: sans-serif;
+}
+.menuh ul{
+	display: flex;
+	justify-content: right;
+	margin-right: 70px;
+	flex-direction: row;
+	width: 35%;
+	padding: 25px;
+	list-style: none;
+}
+.menuh ul input{
+	border-radius: 30px;
+	border:none;
+	padding: 5px;
+}
+a:hover{
+	color: grey;
+}
+a{
+	text-decoration: initial;
+	color: #708090;
+	font-weight: bold;
+}
+li{
+	margin-left: 20px;
+}
+body{
+	background: #1C1C1C;
+	font-family: sans-serif;
+}
+.menuv li{
+	margin-bottom: 25px;
+	align-items: center;
+	display: flex;
+	justify-content: left;
+	width: 110px;
+}
+.menuv{
+	background-color: black;
+	width: 170px;
+	height: 8500px;
+	border: 3px;
+	margin-top: -12px;
+}
+.menuv img{
+	width: 130px;
+	height: 200px;
+	display: flex;
+	margin: 12px;
+	padding: 3px;
+}
+.caps{
+	width: 1000px;
+	height: 1900px auto;
+	margin: 15px;
+	padding: 5px;
+	margin-top: -8500px;
+	margin-left: 170px;
+	background-color: #1C1C1C;
+}
+h1{
+	text-decoration: underline;
+	margin: 10px;
+	margin-left: 130px;
+	margin-top: 80px;
+	color: #DCDCDC;
+}
+h2{
+	margin: 10px;
+	margin-left: 125px;
+	color: #D3D3D3;
+}
+.capone{
+	margin: 100px;
+	margin-left: 120px;
+	font-size: 15px;
+	color: #F0F8FF;
+}
+.captwo{
+	margin: 100px;
+	margin-left: 120px;
+	font-size: 15px;
+	color: #F0F8FF;
+}
+.capthree{
+	margin: 100px;
+	margin-left: 120px;
+	font-size: 15px;
+	color: #F0F8FF;
+}
+.capfour{
+	margin: 100px;
+	margin-left: 120px;
+	font-size: 15px;
+	color: #F0F8FF;
+}
+.capfive{
+	margin: 100px;
+	margin-left: 120px;
+	font-size: 15px;
+	color: #F0F8FF;
+}
+.capsix{
+	margin: 100px;
+	margin-left: 120px;
+	font-size: 15px;
+	color: #F0F8FF;
+}
+.capseven{
+	margin: 100px;
+	margin-left: 120px;
+	font-size: 15px;
+	color: #F0F8FF;
+}
+.capeight{
+	margin: 100px;
+	margin-left: 120px;
+	font-size: 15px;
+	color: #F0F8FF;
+}
+.capnine{
+	margin: 100px;
+	margin-left: 120px;
+	font-size: 15px;
+	color: #F0F8FF;
+}
+.capten{
+	margin: 100px;
+	margin-left: 120px;
+	font-size: 15px;
+	color: #F0F8FF;
+}
+.capeleven{
+	margin: 100px;
+	margin-left: 120px;
+	font-size: 15px;
+	color: #F0F8FF;
+}
+.captwelve{
+	margin: 100px;
+	margin-left: 120px;
+	font-size: 15px;
+	color: #F0F8FF;
+}
+.capthrirteen{
+	margin: 100px;
+	margin-left: 120px;
+	font-size: 15px;
+	color: #F0F8FF;
+}
+.capfourteen{
+	margin: 100px;
+	margin-left: 120px;
+	font-size: 15px;
+	color: #F0F8FF;
+}
+.capfifteen{
+	margin: 100px;
+	margin-left: 120px;
+	font-size: 15px;
+	color: #F0F8FF;
+}
+.capsixteen{
+	margin: 100px;
+	margin-left: 120px;
+	font-size: 15px;
+	color: #F0F8FF;
+}
+.capseventeen{
+	margin: 100px;
+	margin-left: 120px;
+	font-size: 15px;
+	color: #F0F8FF;
+}
+.capeighteen{
+	margin: 100px;
+	margin-left: 120px;
+	font-size: 15px;
+	color: #F0F8FF;
+}
+.capnineteen{
+	margin: 100px;
+	margin-left: 120px;
+	font-size: 15px;
+	color: #F0F8FF;
+}
+.capntwenty{
+	margin: 100px;
+	margin-left: 120px;
+	font-size: 15px;
+	color: #F0F8FF;
+}
+.capntwentyone{
+	margin: 100px;
+	margin-left: 120px;
+	font-size: 15px;
+	color: #F0F8FF;
+}
+.capntwentytwo{
+	margin: 100px;
+	margin-left: 120px;
+	font-size: 15px;
+	color: #F0F8FF;
+}
+button{
+	margin: 35px;
+	margin-left: 400px;
+	padding: 20px;
+	size: 30px;
+	color: black;
+	background-color: #D3D3D3;
+	border: 20px;
+	border-radius: 30px;
+	font-family: Arial;
+	font-size: 18px;
+}
